@@ -39,3 +39,26 @@ body{background:var(--paper);color:var(--ink)}
 .grid .art .editorial-symbol svg{width:52px;height:52px}
 @media(max-width:800px){.featuregrid{grid-template-columns:1fr}.smallstack{grid-template-columns:repeat(2,minmax(0,1fr))}.smallstack .story{flex-direction:column}.smallstack .art{height:100px;width:100%}.grid{grid-template-columns:repeat(3,minmax(0,1fr))}.research{grid-template-columns:1fr}.viz{display:none}}
 @media(max-width:650px){.mastin{min-height:72px}.identity img{width:47px;height:47px}.name{font-size:18px}.tag{font-size:7px}.nav a{font-size:10px;padding:11px 12px}.heroin{padding:29px 17px}.hero h1{font-size:35px}.smallstack{grid-template-columns:1fr}.smallstack .story{flex-direction:row}.smallstack .art{width:105px;height:auto}.grid{grid-template-columns:1fr}.grid .story{flex-direction:row}.grid .story .art{width:92px;height:auto;flex-shrink:0}.grid .story .storybody{padding:11px 13px}.grid .story h3{font-size:15px}.grid .story p,.grid .story .bottom{display:none}.featured .art{height:130px}.featured h3{font-size:20px}.sectionhead h2{font-size:23px}.section{margin-top:22px}}
+
+/* Mobile overflow corrections: keep navigation one row and prevent cropped card labels */
+.nav .navin{display:flex;flex-flow:row nowrap;align-items:center;justify-content:flex-start;gap:0;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none;max-width:100%;min-width:0}
+.nav .navin::-webkit-scrollbar{display:none}
+.nav .navin>a{display:inline-flex;align-items:center;flex:0 0 auto;white-space:nowrap;min-width:max-content}
+.story,.storybody,.sectionhead,.sectionhead>div,.researchcopy{min-width:0}
+.story h3,.story h3 a,.story p{overflow-wrap:break-word}
+@media(max-width:650px){
+.nav .navin{flex-wrap:nowrap!important;gap:0!important;padding-top:0!important;padding-bottom:0!important}
+.nav .navin>a{padding:12px 13px!important;font-size:10px;line-height:1.2;letter-spacing:.35px}
+.grid .story .art{width:96px;min-width:96px;padding:8px;align-items:center;justify-content:center}
+.grid .art em{display:none}
+.grid .art .editorial-symbol{position:static;display:flex}
+.grid .art .editorial-symbol svg{width:43px;height:43px}
+.smallstack .art{min-width:105px;padding:9px}
+.smallstack .art em{font-size:9px;letter-spacing:0;overflow-wrap:anywhere;line-height:1.2}
+.smallstack .art .editorial-symbol{right:6px;top:6px}
+.sectionhead{align-items:flex-start;gap:9px}
+.sectionhead h2{font-size:clamp(21px,6vw,24px)}
+.sectionhead>a{flex:0 0 auto;font-size:11px;align-self:flex-end}
+.researchcopy{padding:16px}
+.research .button{max-width:100%;white-space:normal}
+}
