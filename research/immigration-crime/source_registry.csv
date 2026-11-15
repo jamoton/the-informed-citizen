@@ -1,0 +1,5 @@
+source_id,source_name,source_type,jurisdiction,source_url,access_method,coverage_start,coverage_end,last_checked,access_status,notes
+S001,US Department of Justice News,DOJ,US,https://www.justice.gov/news,public_search,,, ,pending,Official releases; district coverage must be audited
+S002,ICE Newsroom,DHS,US,https://www.ice.gov/newsroom,public_search,,, ,pending,Verify current article access and status claims
+S003,Texas DPS Criminal Illegal Noncitizen Data,state_aggregate,TX,https://www.dps.texas.gov/section/crime-records/texas-criminal-illegal-noncitizen-data,public_page,,, ,pending,Aggregate validation only; not individual case discovery
+S004,CBP Criminal Alien Statistics,federal_aggregate,US,https://www.cbp.gov/newsroom/stats/cbp-enforcement-statistics/criminal-alien-statistics,public_page,,, ,pending,Apprehension prior-conviction data; not US incident totals
