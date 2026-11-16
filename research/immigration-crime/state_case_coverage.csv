@@ -1,5 +1,5 @@
 state,report_count,coverage_status,verification_note
-AL,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+AL,1,source-linked reports present; audit pending,Confirm immigration status and plea from DOJ; independent docket audit pending, court, DOJ and police records
 AK,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
 AZ,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 AR,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
@@ -28,7 +28,7 @@ MT,0,no case yet,Prioritize original local prosecutor, court, DOJ and police rec
 NE,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 NV,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
 NH,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-NJ,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+NJ,1,source-linked reports present; audit pending,Confirm immigration status and plea from DOJ; independent docket audit pending, court, DOJ and police records
 NM,1,source-linked reports present; audit pending,Cross-state smuggling in NM; victim death in TX; confirm incident geography, court, DOJ and police records
 NY,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 NC,3,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
