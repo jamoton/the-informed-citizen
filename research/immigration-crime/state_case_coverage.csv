@@ -2,7 +2,7 @@ state,report_count,coverage_status,verification_note
 AL,1,source-linked reports present; audit pending,Confirm immigration status and plea from DOJ; independent docket audit pending, court, DOJ and police records
 AK,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
 AZ,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-AR,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+AR,1,source-linked reports present; audit pending,February 2025 firearm incident; convicted, court, DOJ and police records
 CA,6,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 CO,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 CT,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
@@ -16,7 +16,7 @@ IN,1,source-linked reports present; audit pending,Confirm incident jurisdiction,
 IA,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 KS,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 KY,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
-LA,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+LA,2,source-linked reports present; audit pending,Two attempted enticement convictions; one offense date unverified, court, DOJ and police records
 ME,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
 MD,3,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 MA,3,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
@@ -26,7 +26,7 @@ MS,1,source-linked reports present; audit pending,Confirm incident jurisdiction,
 MO,2,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 MT,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
 NE,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-NV,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+NV,1,source-linked reports present; audit pending,October 2026 drug complaint; allegations only, court, DOJ and police records
 NH,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 NJ,1,source-linked reports present; audit pending,Confirm immigration status and plea from DOJ; independent docket audit pending, court, DOJ and police records
 NM,1,source-linked reports present; audit pending,Cross-state smuggling in NM; victim death in TX; confirm incident geography, court, DOJ and police records
