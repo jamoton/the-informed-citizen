@@ -13,7 +13,7 @@ HI,0,no case yet,Prioritize original local prosecutor, court, DOJ and police rec
 ID,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 IL,3,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 IN,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-IA,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+IA,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 KS,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 KY,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 LA,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
@@ -38,9 +38,9 @@ OK,1,source-linked reports present; audit pending,Confirm incident jurisdiction,
 OR,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 PA,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 RI,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
-SC,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+SC,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 SD,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
-TN,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+TN,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 TX,7,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 UT,5,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 VT,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
