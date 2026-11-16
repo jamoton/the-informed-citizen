@@ -24,7 +24,7 @@ MI,1,source-linked reports present; audit pending,Confirm assault date and immig
 MN,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 MS,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 MO,2,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-MT,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+MT,1,source-linked reports present; audit pending,February 2026 domestic assault allegation only; no assault conviction established; reentry conviction separate, court, DOJ and police records
 NE,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 NV,1,source-linked reports present; audit pending,October 2026 drug complaint; allegations only, court, DOJ and police records
 NH,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
@@ -37,7 +37,7 @@ OH,5,source-linked reports present; audit pending,Confirm incident jurisdiction,
 OK,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 OR,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 PA,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-RI,0,no case yet,Prioritize original local prosecutor, court, DOJ and police records
+RI,2,source-linked reports present; audit pending,2025 state drug convictions and federal-officer resisting arrest plea; docket audit pending, court, DOJ and police records
 SC,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
 SD,1,source-linked reports present; audit pending,February 2026 federal officer assault; DOJ guilty plea and sentencing, court, DOJ and police records
 TN,1,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source, court, DOJ and police records
@@ -45,7 +45,7 @@ TX,7,source-linked reports present; audit pending,Confirm incident jurisdiction,
 UT,5,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 VT,1,source-linked reports present; audit pending,January 2025 alleged smuggling; driver charged; disposition pending, court, DOJ and police records
 VA,2,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
-WA,4,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
+WA,5,source-linked reports present; audit pending,Confirm incident jurisdiction, immigration status, date, charge disposition and source
 WV,1,source-linked reports present; audit pending,DOJ guilty plea; June 2025 to January 2026 document fraud; docket audit pending, court, DOJ and police records
 WI,2,source-linked reports present; audit pending,2024 child sexual assault and 2025 Delafield burglary; state disposition cross-check pending, court, DOJ and police records
 WY,1,source-linked reports present; audit pending,Original DOJ case; independent docket audit pending, court, DOJ and police records
